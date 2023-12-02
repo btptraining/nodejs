@@ -1,6 +1,6 @@
 {
   "name": "learnexpress",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Training on Express",
   "main": "index.js",
   "scripts": {
